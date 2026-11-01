@@ -1,0 +1,6 @@
+[
+  {"id": 1, "fecha": "2026-10-01", "producto": "Portátil", "cantidad": 2, "precio_unitario": 899.99, "tienda": "Valencia"},
+  {"id": 2, "fecha": "2026-10-02", "producto": "Ratón", "cantidad": 10, "precio_unitario": 19.50, "tienda": "Madrid"},
+  {"id": 3, "fecha": "2026-10-03", "producto": "Monitor", "cantidad": 3, "precio_unitario": 249.00, "tienda": "Valencia"},
+  {"id": 4, "fecha": "2026-10-05", "producto": "Teclado", "cantidad": 5, "precio_unitario": 45.90, "tienda": "Barcelona"}
+]
